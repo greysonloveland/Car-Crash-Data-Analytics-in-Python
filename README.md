@@ -5,9 +5,13 @@ The project consists of some simple data visualizations in Python using librarie
 <br />
 
 
-<h2>Languages used</h2>
+<h2>Languages used and Python libraries</h2>
 
-- <b>Python (Jupyter Notebook) </b> 
+- <b>Python (Jupyter Notebook) </b>
+- <b>pandas</b>
+- <b>datetime</b>
+- <b>matplotlib </b>
+- <b>seaborn</b> 
 
 <h2>Environment Used </h2>
 

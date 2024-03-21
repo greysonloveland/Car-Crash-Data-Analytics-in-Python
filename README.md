@@ -25,6 +25,11 @@ Code for Car Crashes by number of people killed by month:  <br/>
 <img src="https://i.imgur.com/V02eOMX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/W3wYF8A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Code for Car Crashes top 10 reasons for crashes:  <br/>
+<img src="https://i.imgur.com/nwp61qC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3cxL9qq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 </p>
 
